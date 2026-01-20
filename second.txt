@@ -1,2 +1,2 @@
 this is my first file.
-I am updating second file
+Now I am updating second file
